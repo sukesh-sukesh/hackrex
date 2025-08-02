@@ -1,0 +1,7 @@
+# Absolute minimal requirements - only what's essential
+# This should work in almost any Python environment
+
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+requests>=2.25.0
